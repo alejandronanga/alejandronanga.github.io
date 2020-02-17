@@ -1,6 +1,6 @@
 # Site settings
 title: Alejandro Nanga
-description:
+description: >
   A 3D generalist and ocassional developer
 
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -10,10 +10,10 @@ author:
   fullname: Alejandro Nanga
   # googleplus:
   # github: kronik3r
-  # twitter: electrik_frog
+  twitter: alenanga
   # disqus: your_disqus_forum_shortname
 
-google_analytics: 'UA-XXXXXXXX-X'
+#google_analytics: 'UA-XXXXXXXX-X'
 
 # Syntax highlighting
 highlightstyle: ''

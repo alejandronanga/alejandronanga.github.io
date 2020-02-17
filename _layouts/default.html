@@ -1,20 +1,17 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        {% include main/head.html %}
+        {% include meta_tags/base.html %}
+        {% include meta_tags/sharing.html %}
+
+        {% include externals/styling.html %}
     </head>
 
     <body>
-        <div class="wrapper" id="blep">
-            {% include main/header.html %}
+        <div class="wrapper">
+            {% include header.html %}
 
             {{ content }}
-
-            {% include main/footer.html %}
         </div>
 
         {% include externals/scripting.html %}

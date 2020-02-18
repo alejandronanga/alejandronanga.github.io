@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Alejandro Nanga</title>
+    <description>Mexican 3D artist and video game developer</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Feb 2020 17:25:49 -0800</pubDate>
+    <lastBuildDate>Mon, 17 Feb 2020 17:25:49 -0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+
+    
+      <item>
+        <title>Hello there!</title>
+        <description>&lt;p&gt;My name is J. Alejandro Nanga, I’m a 3D artist currently residing in Tijuana, Mexico. I’m currently working with VR/AR projects, focusing on optimization for platforms with evident hardware limitations, at Thermo Fisher Scientific.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020/01/01/access-main-program-access-main-security-access-main-program-grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/01/access-main-program-access-main-security-access-main-program-grid/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About me</title>
+            <description>&lt;p&gt;You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
+
+&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/about-me.html</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>CV</title>
+            <description>&lt;p&gt;You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
+
+&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/cv.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Portfolio</title>
+            <description>You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+</description>
+            <link>http://localhost:4000/portfolio.html</link>
+          </item>
+        
+      
+    
+      
+    
+
+  </channel>
+</rss>

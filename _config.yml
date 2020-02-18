@@ -10,7 +10,7 @@ title:       J. Alejandro Nanga
 email:       'me@nanga.mx'
 description: 'Mexican 3D artist and video game developer'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'nanga.mx' # The base hostname & protocol for your site
+url:         'https://www.nanga.mx/' # The base hostname & protocol for your site
 # twitter:     'alenanga'
 # github:      ''
 instagram:   'https://www.instagram.com/alenanga/'

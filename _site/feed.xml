@@ -5,14 +5,18 @@
     <description>Mexican 3D artist and video game developer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Feb 2020 19:09:42 -0800</pubDate>
-    <lastBuildDate>Mon, 17 Feb 2020 19:09:42 -0800</lastBuildDate>
+    <pubDate>Mon, 17 Feb 2020 21:34:52 -0800</pubDate>
+    <lastBuildDate>Mon, 17 Feb 2020 21:34:52 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
-        <title>Hello there!</title>
-        <description>&lt;p&gt;My name is J. Alejandro Nanga, I’m a 3D artist currently residing in Tijuana, Mexico. I’m currently working with VR/AR projects, focusing on optimization for platforms with evident hardware limitations, at Thermo Fisher Scientific.&lt;/p&gt;
+        <title>About me</title>
+        <description>&lt;p&gt;My name is Alejandro Nanga, I’m a 3D artist from Mexico. I’m currently working with WebGL and VR/AR projects, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.&lt;/p&gt;
+
+&lt;p&gt;My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop and then moving to Unity3D with PBR shaders.&lt;/p&gt;
+
+&lt;p&gt;I care about processes and their improvements to deliver faster, consistent, high quality work in 3D environments.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/2020/01/01/access-main-program-access-main-security-access-main-program-grid/</link>
@@ -28,19 +32,57 @@
       
         
           <item>
-            <title>About me</title>
-            <description>&lt;p&gt;Here is where I’d put a small bio, if I had one&lt;/p&gt;
-</description>
-            <link>http://localhost:4000/about-me.html</link>
-          </item>
-        
-      
-    
-      
-        
-          <item>
             <title>CV</title>
-            <description>&lt;p&gt;I uhm, have degrees, hire me&lt;/p&gt;
+            <description>&lt;h2 id=&quot;experience&quot;&gt;&lt;b&gt;Experience&lt;/b&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;thermo-fisher-scientific-2017---present&quot;&gt;Thermo Fisher Scientific (2017 - Present)&lt;/h3&gt;
+&lt;h4 id=&quot;3d-developer--software-engineer&quot;&gt;3D Developer / Software Engineer&lt;/h4&gt;
+&lt;p&gt;At Thermo Fisher Scientific, I’ve been an interdisciplinary team member inside the Digital Engineering and later in the User Experience and Innovation divisions. Among my responsabilities is the development of 3D assets for applications on WebGL and VR/AR platforms.&lt;/p&gt;
+
+&lt;p&gt;I was in charge of doing the retopology of Thermo Fisher’s biotechnology equipment parting from provided CAD files to textured low polycount meshes, for a WebGL training application for new users of these instruments. In this experience I was also responsible for creating the animations of each workflow, ranging from the installation of the instrument to running experiments with them; I also recreated the Software User Interface for Unity’s UI elements and every 3D asset required for these workflows.&lt;/p&gt;
+
+&lt;p&gt;I worked on a POC on the interconnection of an experience made in Unity for the HTC Vive and a real life lab automation Spinnaker Microplate Robot, where I modeled the instruments required and the virtual environment itself.&lt;/p&gt;
+
+&lt;p&gt;Furthermore I also functioned as an environmental artist creating asset bundles of cellular, molecular and protein biology for a training video game for the Oculus Go. Where I scouted different laboratories of Thermo Fisher Scientific, made the layouts and concept art and continued modeling, optimizing, creating texture atlas for each asset bundle with few draw calls and a low polycount as the main priorities.&lt;/p&gt;
+
+&lt;p&gt;I also worked on creating different User Interfaces for our projects and implementing others with templates from the User Interface and User Experience department.&lt;/p&gt;
+
+&lt;p&gt;As part of my goals for the company I also provided classes on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.&lt;/p&gt;
+
+&lt;h3 id=&quot;vicom-2017&quot;&gt;Vicom (2017)&lt;/h3&gt;
+&lt;h4 id=&quot;intern-in-media&quot;&gt;Intern in Media&lt;/h4&gt;
+&lt;p&gt;At Vicom I worked as an intern in media. My responsibilities were filling the gap between disciplines in the media department. Fulfilling the needs of different clients based mostly at the central Mexico region.&lt;/p&gt;
+
+&lt;p&gt;I was in charge of creating 2D assets for motion graphics; 2D animation; assisting at brand storytelling; graphic design for web; and product photography.&lt;/p&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;&lt;b&gt;Education&lt;/b&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;monterrey-institute-of-technology-and-higher-education-2012---2017&quot;&gt;Monterrey Institute of Technology and Higher Education (2012 - 2017)&lt;/h3&gt;
+&lt;h4 id=&quot;ba-animation-and-digital-art&quot;&gt;B.A. Animation and digital art&lt;/h4&gt;
+&lt;h3 id=&quot;universidad-católica-de-murcia--coco-school-2015---2016&quot;&gt;Universidad Católica de Murcia / Coco School (2015 - 2016)&lt;/h3&gt;
+&lt;h4 id=&quot;m-3d-modeling-animation-and-visual-effects&quot;&gt;M. 3D modeling, animation and visual effects&lt;/h4&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;&lt;b&gt;Skills&lt;/b&gt;&lt;/h2&gt;
+&lt;h4 id=&quot;media&quot;&gt;Media:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Autodesk Maya&lt;/li&gt;
+  &lt;li&gt;Unity&lt;/li&gt;
+  &lt;li&gt;Adobe CC&lt;/li&gt;
+  &lt;li&gt;Substance Painter&lt;/li&gt;
+  &lt;li&gt;V-Ray&lt;/li&gt;
+  &lt;li&gt;Arnold&lt;/li&gt;
+  &lt;li&gt;Pixologic ZBrush&lt;/li&gt;
+  &lt;li&gt;Blender&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;programming&quot;&gt;Programming:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;C#&lt;/li&gt;
+  &lt;li&gt;Java&lt;/li&gt;
+  &lt;li&gt;JavaScript&lt;/li&gt;
+  &lt;li&gt;Cg&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;languages&quot;&gt;Languages:&lt;/h4&gt;
+&lt;p&gt;Spanish and English&lt;/p&gt;
 </description>
             <link>http://localhost:4000/cv.html</link>
           </item>

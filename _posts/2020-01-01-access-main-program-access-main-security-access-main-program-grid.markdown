@@ -2,11 +2,13 @@
 layout: post
 title: About me
 tags: [welcome]
-image: './images/posts/Header1.jpg'
+image: 'https://i.imgur.com/r9KZ1KD.jpg'
 ---
 
-My name is Alejandro Nanga, I'm a 3D artist from Mexico. I'm currently working with WebGL and VR/AR projects, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.
+My name is Alejandro Nanga, I'm a 3D artist from Mexico. I'm currently developing in Unity for WebGL and VR/AR platforms, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.
 
-My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop and then moving to Unity3D with PBR shaders.
+My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop for PBR shaders and then moving to Unity3D to populate environments.
 
 I care about processes and their improvements to deliver faster, consistent, high quality work in 3D environments.
+
+<a href="mailto:me@nanga.mx">Contact me</a>

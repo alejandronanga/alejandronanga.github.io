@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-image: ''
+image: 'https://i.imgur.com/iQgZe8v.png'
 ---
 
 ## <b>Experience</b>

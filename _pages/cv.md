@@ -7,7 +7,7 @@ image: 'https://i.imgur.com/iQgZe8v.png'
 ## <b>Experience</b>
 ### Thermo Fisher Scientific (2017 - Present)
 #### 3D Developer / Software Engineer
-At Thermo Fisher Scientific, I've been an interdisciplinary team member inside the Digital Engineering and later in the User Experience and Innovation divisions. Among my responsabilities is the development of 3D assets for applications on WebGL and VR/AR platforms.
+At Thermo Fisher Scientific, I'm an interdisciplinary team member in the User Experience and Innovation and previously the Digital Engineering divisions. Among my responsabilities is the development of 3D assets for applications on WebGL and VR/AR platforms.
 
 I was in charge of doing the retopology of Thermo Fisher's biotechnology equipment parting from provided CAD files to textured low polycount meshes, for a WebGL training application for new users of these instruments. In this experience I was also responsible for creating the animations of each workflow, ranging from the installation of the instrument to running experiments with them; I also recreated the Software User Interface for Unity's UI elements and every 3D asset required for these workflows.
 
@@ -17,7 +17,7 @@ Furthermore I also functioned as an environmental artist creating asset bundles 
 
 I also worked on creating different User Interfaces for our projects and implementing others with templates from the User Interface and User Experience department.
 
-As part of my goals for the company I also provided classes on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.
+As part of my goals for the company I also provided courses on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.
 
 ### Vicom (2017)
 #### Intern in Media

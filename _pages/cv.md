@@ -13,11 +13,11 @@ I was in charge of doing the retopology of Thermo Fisher's biotechnology equipme
 
 I worked on a POC on the interconnection of an experience made in Unity for the HTC Vive and a real life lab automation Spinnaker Microplate Robot, where I modeled the instruments required and the virtual environment itself.
 
-Furthermore I also functioned as an environmental artist creating asset bundles of cellular, molecular and protein biology for a training video game for the Oculus Go. Where I scouted different laboratories of Thermo Fisher Scientific, made the layouts and concept art and continued modeling, optimizing, creating texture atlas for each asset bundle with few draw calls and a low polycount as the main priorities.
+Furthermore I functioned as an environmental artist creating asset bundles of cellular, molecular and protein biology for a training video game for the Oculus Go. Where I scouted different laboratories of Thermo Fisher Scientific, made the layouts and concept art and continued modeling, optimizing, creating texture atlas for each asset bundle with few draw calls and a low polycount as the main priorities.
 
 I also worked on creating different User Interfaces for our projects and implementing others with templates from the User Interface and User Experience department.
 
-As part of my goals for the company I also provided courses on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.
+As part of my goals for the company I provided courses on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.
 
 ### Vicom (2017)
 #### Intern in Media
@@ -41,6 +41,7 @@ I was in charge of creating 2D assets for motion graphics; 2D animation; assisti
 * Arnold
 * Pixologic ZBrush
 * Blender
+* Nuke
 
 #### Programming:
 * C#

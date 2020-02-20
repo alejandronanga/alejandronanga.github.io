@@ -22,3 +22,6 @@ image: 'https://i.imgur.com/UCBd1eu.png'
 ### Swapportunities
 
 ### VR Robot
+<video width="662" height="416" controls autoplay loop>
+<source src="https://i.imgur.com/p7oAcHL.mp4" type="video/mp4">
+</video>

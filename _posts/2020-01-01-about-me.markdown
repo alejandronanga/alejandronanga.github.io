@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-tags: [welcome]
+tags: []
 image: 'https://i.imgur.com/r9KZ1KD.jpg'
 ---
 

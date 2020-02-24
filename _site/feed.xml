@@ -5,22 +5,24 @@
     <description>Mexican 3D artist and video game developer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Feb 2020 10:33:06 -0800</pubDate>
-    <lastBuildDate>Tue, 18 Feb 2020 10:33:06 -0800</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2020 10:20:38 -0800</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2020 10:20:38 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
         <title>About me</title>
-        <description>&lt;p&gt;My name is Alejandro Nanga, I’m a 3D artist from Mexico. I’m currently working with WebGL and VR/AR projects, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.&lt;/p&gt;
+        <description>&lt;p&gt;I’m a 3D artist from Mexico. I’m currently developing in Unity for WebGL and VR/AR platforms, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.&lt;/p&gt;
 
-&lt;p&gt;My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop and then moving to Unity3D with PBR shaders.&lt;/p&gt;
+&lt;p&gt;My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop for PBR shaders and then moving to Unity3D to populate environments.&lt;/p&gt;
 
 &lt;p&gt;I care about processes and their improvements to deliver faster, consistent, high quality work in 3D environments.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:me@nanga.mx&quot;&gt;Contact me&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2020/01/01/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/01/access-main-program-access-main-security-access-main-program-grid/</guid>
+        <link>http://localhost:4000/2020/01/01/about-me/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/01/about-me/</guid>
       </item>
     
 
@@ -36,17 +38,17 @@
             <description>&lt;h2 id=&quot;experience&quot;&gt;&lt;b&gt;Experience&lt;/b&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;thermo-fisher-scientific-2017---present&quot;&gt;Thermo Fisher Scientific (2017 - Present)&lt;/h3&gt;
 &lt;h4 id=&quot;3d-developer--software-engineer&quot;&gt;3D Developer / Software Engineer&lt;/h4&gt;
-&lt;p&gt;At Thermo Fisher Scientific, I’ve been an interdisciplinary team member inside the Digital Engineering and later in the User Experience and Innovation divisions. Among my responsabilities is the development of 3D assets for applications on WebGL and VR/AR platforms.&lt;/p&gt;
+&lt;p&gt;At Thermo Fisher Scientific, I’m an interdisciplinary team member in the User Experience and Innovation and previously the Digital Engineering divisions. Among my responsabilities is the development of 3D assets for applications on WebGL and VR/AR platforms.&lt;/p&gt;
 
 &lt;p&gt;I was in charge of doing the retopology of Thermo Fisher’s biotechnology equipment parting from provided CAD files to textured low polycount meshes, for a WebGL training application for new users of these instruments. In this experience I was also responsible for creating the animations of each workflow, ranging from the installation of the instrument to running experiments with them; I also recreated the Software User Interface for Unity’s UI elements and every 3D asset required for these workflows.&lt;/p&gt;
 
 &lt;p&gt;I worked on a POC on the interconnection of an experience made in Unity for the HTC Vive and a real life lab automation Spinnaker Microplate Robot, where I modeled the instruments required and the virtual environment itself.&lt;/p&gt;
 
-&lt;p&gt;Furthermore I also functioned as an environmental artist creating asset bundles of cellular, molecular and protein biology for a training video game for the Oculus Go. Where I scouted different laboratories of Thermo Fisher Scientific, made the layouts and concept art and continued modeling, optimizing, creating texture atlas for each asset bundle with few draw calls and a low polycount as the main priorities.&lt;/p&gt;
+&lt;p&gt;Furthermore I functioned as an environmental artist creating asset bundles of cellular, molecular and protein biology for a training video game for the Oculus Go. Where I scouted different laboratories of Thermo Fisher Scientific, made the layouts and concept art and continued modeling, optimizing, creating texture atlas for each asset bundle with few draw calls and a low polycount as the main priorities.&lt;/p&gt;
 
 &lt;p&gt;I also worked on creating different User Interfaces for our projects and implementing others with templates from the User Interface and User Experience department.&lt;/p&gt;
 
-&lt;p&gt;As part of my goals for the company I also provided classes on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.&lt;/p&gt;
+&lt;p&gt;As part of my goals for the company I provided courses on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.&lt;/p&gt;
 
 &lt;h3 id=&quot;vicom-2017&quot;&gt;Vicom (2017)&lt;/h3&gt;
 &lt;h4 id=&quot;intern-in-media&quot;&gt;Intern in Media&lt;/h4&gt;
@@ -71,6 +73,7 @@
   &lt;li&gt;Arnold&lt;/li&gt;
   &lt;li&gt;Pixologic ZBrush&lt;/li&gt;
   &lt;li&gt;Blender&lt;/li&gt;
+  &lt;li&gt;Nuke&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;programming&quot;&gt;Programming:&lt;/h4&gt;
@@ -102,17 +105,26 @@
 &lt;source src=&quot;https://i.imgur.com/az277l6.mp4&quot; type=&quot;video/mp4&quot;&gt;
 &lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/VY3JlL1.mp4&quot; type=&quot;video/mp4&quot;&gt;
+&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;source src=&quot;https://i.imgur.com/etgNe5m.mp4&quot; type=&quot;video/mp4&quot;&gt;
+&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;source src=&quot;https://i.imgur.com/XzpUPBu.mp4&quot; type=&quot;video/mp4&quot;&gt;
+&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;source src=&quot;https://i.imgur.com/chajprY.mp4&quot; type=&quot;video/mp4&quot;&gt;
+&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;source src=&quot;https://i.imgur.com/VE5XowI.mp4&quot; type=&quot;video/mp4&quot;&gt;
 &lt;/video&gt;
 
 ### Swapportunities
 
 ### VR Robot
+&lt;video width=&quot;100%&quot; controls autoplay loop&gt;
+&lt;source src=&quot;https://i.imgur.com/p7oAcHL.mp4&quot; type=&quot;video/mp4&quot;&gt;
+&lt;/video&gt;
 </description>
             <link>http://localhost:4000/portfolio.html</link>
           </item>
         
-      
-    
       
     
 

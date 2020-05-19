@@ -13,13 +13,7 @@ image: 'https://i.imgur.com/UCBd1eu.png'
 <source src="https://i.imgur.com/etgNe5m.mp4" type="video/mp4">
 </video><video width="49%" controls autoplay loop>
 <source src="https://i.imgur.com/XzpUPBu.mp4" type="video/mp4">
-</video><video width="50%" controls autoplay loop>
-<source src="https://i.imgur.com/chajprY.mp4" type="video/mp4">
-</video><video width="49%" controls autoplay loop>
-<source src="https://i.imgur.com/VE5XowI.mp4" type="video/mp4">
 </video>
-
-### Swapportunities
 
 ### VR Robot
 <video width="100%" controls autoplay loop>

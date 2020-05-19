@@ -7,7 +7,7 @@ image: 'https://i.imgur.com/iQgZe8v.png'
 ## <b>Experience</b>
 ### Thermo Fisher Scientific (2017 - Present)
 #### 3D Technical Artist (2020 - Present)
-My role inside of Thermo Fisher Scientific is working with Pharma Services Global to create 3D replicas of their pharmaceutical laboratories at a very low hardware cost parting from photographic scans of their laboratory; for AR applications for the Microsoft Hololens 2. 
+My role inside of Thermo Fisher Scientific is working with Pharma Services Global to create 3D replicas of their pharmaceutical laboratories at a very low hardware cost parting from photographic scans; for AR applications for the HoloLens 2. 
 
 #### Software Engineer I / 3D Developer (2017 - 2020)
 From 2017 to 2020, I was an interdisciplinary team member in the Digital Engineering division. Among my responsibilities was the development of 3D assets for applications on WebGL and VR/AR platforms.

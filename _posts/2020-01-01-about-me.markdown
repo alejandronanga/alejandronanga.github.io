@@ -2,7 +2,7 @@
 layout: post
 title: About me
 tags: []
-image: 'https://i.imgur.com/r9KZ1KD.jpg'
+image: 'https://i.imgur.com/pzZeA1I.png'
 ---
 
 I'm a 3D artist from Mexico. I'm currently developing in Unity for WebGL and VR/AR platforms, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.
@@ -11,4 +11,5 @@ My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, 
 
 I care about processes and their improvements to deliver faster, consistent, high quality work in 3D environments.
 
-<a href="mailto:me@nanga.mx">Contact me</a>
+<center><img src="https://i.imgur.com/VQlVqDa.jpg" alt="Personal avatar" width="33%"> 
+<a href="mailto:me@nanga.mx">Contact me</a></center>

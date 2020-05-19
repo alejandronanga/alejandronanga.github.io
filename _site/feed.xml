@@ -5,8 +5,8 @@
     <description>Mexican 3D artist and video game developer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Feb 2020 10:20:38 -0800</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2020 10:20:38 -0800</lastBuildDate>
+    <pubDate>Tue, 19 May 2020 09:36:09 -0700</pubDate>
+    <lastBuildDate>Tue, 19 May 2020 09:36:09 -0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -18,7 +18,8 @@
 
 &lt;p&gt;I care about processes and their improvements to deliver faster, consistent, high quality work in 3D environments.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;mailto:me@nanga.mx&quot;&gt;Contact me&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/VQlVqDa.jpg&quot; alt=&quot;Personal avatar&quot; width=&quot;33%&quot; /&gt; 
+&lt;a href=&quot;mailto:me@nanga.mx&quot;&gt;Contact me&lt;/a&gt;&lt;/center&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/2020/01/01/about-me/</link>
@@ -37,8 +38,11 @@
             <title>CV</title>
             <description>&lt;h2 id=&quot;experience&quot;&gt;&lt;b&gt;Experience&lt;/b&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;thermo-fisher-scientific-2017---present&quot;&gt;Thermo Fisher Scientific (2017 - Present)&lt;/h3&gt;
-&lt;h4 id=&quot;3d-developer--software-engineer&quot;&gt;3D Developer / Software Engineer&lt;/h4&gt;
-&lt;p&gt;At Thermo Fisher Scientific, I’m an interdisciplinary team member in the User Experience and Innovation and previously the Digital Engineering divisions. Among my responsabilities is the development of 3D assets for applications on WebGL and VR/AR platforms.&lt;/p&gt;
+&lt;h4 id=&quot;3d-technical-artist-2020---present&quot;&gt;3D Technical Artist (2020 - Present)&lt;/h4&gt;
+&lt;p&gt;My role inside of Thermo Fisher Scientific is working with Pharma Services Global to create 3D replicas of their pharmaceutical laboratories at a very low hardware cost parting from photographic scans of their laboratory; for AR applications for the Microsoft Hololens 2.&lt;/p&gt;
+
+&lt;h4 id=&quot;software-engineer-i--3d-developer-2017---2020&quot;&gt;Software Engineer I / 3D Developer (2017 - 2020)&lt;/h4&gt;
+&lt;p&gt;From 2017 to 2020, I was an interdisciplinary team member in the Digital Engineering division. Among my responsibilities was the development of 3D assets for applications on WebGL and VR/AR platforms.&lt;/p&gt;
 
 &lt;p&gt;I was in charge of doing the retopology of Thermo Fisher’s biotechnology equipment parting from provided CAD files to textured low polycount meshes, for a WebGL training application for new users of these instruments. In this experience I was also responsible for creating the animations of each workflow, ranging from the installation of the instrument to running experiments with them; I also recreated the Software User Interface for Unity’s UI elements and every 3D asset required for these workflows.&lt;/p&gt;
 
@@ -80,7 +84,6 @@
 &lt;ul&gt;
   &lt;li&gt;C#&lt;/li&gt;
   &lt;li&gt;Java&lt;/li&gt;
-  &lt;li&gt;JavaScript&lt;/li&gt;
   &lt;li&gt;Cg&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -101,17 +104,17 @@
           <item>
             <title>Portfolio</title>
             <description>### Digital Smart Start
-&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;video width=&quot;50%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/az277l6.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;/video&gt;&lt;video width=&quot;49%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/VY3JlL1.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;/video&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/etgNe5m.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;/video&gt;&lt;video width=&quot;49%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/XzpUPBu.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;/video&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/chajprY.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;331&quot; height=&quot;208&quot; controls autoplay loop&gt;
+&lt;/video&gt;&lt;video width=&quot;49%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/VE5XowI.mp4&quot; type=&quot;video/mp4&quot;&gt;
 &lt;/video&gt;
 

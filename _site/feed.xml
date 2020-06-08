@@ -5,8 +5,8 @@
     <description>Mexican 3D artist and video game developer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 May 2020 09:36:09 -0700</pubDate>
-    <lastBuildDate>Tue, 19 May 2020 09:36:09 -0700</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2020 16:14:01 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2020 16:14:01 -0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -16,7 +16,7 @@
 
 &lt;p&gt;My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop for PBR shaders and then moving to Unity3D to populate environments.&lt;/p&gt;
 
-&lt;p&gt;I care about processes and their improvements to deliver faster, consistent, high quality work in 3D environments.&lt;/p&gt;
+&lt;p&gt;I care about improving processes to deliver faster, consistent, high quality work in 3D environments.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;https://i.imgur.com/VQlVqDa.jpg&quot; alt=&quot;Personal avatar&quot; width=&quot;33%&quot; /&gt; 
 &lt;a href=&quot;mailto:me@nanga.mx&quot;&gt;Contact me&lt;/a&gt;&lt;/center&gt;
@@ -39,7 +39,7 @@
             <description>&lt;h2 id=&quot;experience&quot;&gt;&lt;b&gt;Experience&lt;/b&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;thermo-fisher-scientific-2017---present&quot;&gt;Thermo Fisher Scientific (2017 - Present)&lt;/h3&gt;
 &lt;h4 id=&quot;3d-technical-artist-2020---present&quot;&gt;3D Technical Artist (2020 - Present)&lt;/h4&gt;
-&lt;p&gt;My role inside of Thermo Fisher Scientific is working with Pharma Services Global to create 3D replicas of their pharmaceutical laboratories at a very low hardware cost parting from photographic scans of their laboratory; for AR applications for the Microsoft Hololens 2.&lt;/p&gt;
+&lt;p&gt;My role inside of Thermo Fisher Scientific is working with Pharma Services Global to create 3D replicas of their pharmaceutical laboratories at a very low hardware cost parting from photographic scans; for AR applications for the HoloLens 2.&lt;/p&gt;
 
 &lt;h4 id=&quot;software-engineer-i--3d-developer-2017---2020&quot;&gt;Software Engineer I / 3D Developer (2017 - 2020)&lt;/h4&gt;
 &lt;p&gt;From 2017 to 2020, I was an interdisciplinary team member in the Digital Engineering division. Among my responsibilities was the development of 3D assets for applications on WebGL and VR/AR platforms.&lt;/p&gt;
@@ -103,27 +103,30 @@
         
           <item>
             <title>Portfolio</title>
-            <description>### Digital Smart Start
-&lt;video width=&quot;50%&quot; controls autoplay loop&gt;
-&lt;source src=&quot;https://i.imgur.com/az277l6.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;49%&quot; controls autoplay loop&gt;
-&lt;source src=&quot;https://i.imgur.com/VY3JlL1.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;
-&lt;source src=&quot;https://i.imgur.com/etgNe5m.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;49%&quot; controls autoplay loop&gt;
-&lt;source src=&quot;https://i.imgur.com/XzpUPBu.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;
-&lt;source src=&quot;https://i.imgur.com/chajprY.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;&lt;video width=&quot;49%&quot; controls autoplay loop&gt;
-&lt;source src=&quot;https://i.imgur.com/VE5XowI.mp4&quot; type=&quot;video/mp4&quot;&gt;
-&lt;/video&gt;
+            <description>### Swapportunities
+&lt;video width=&quot;100%&quot; controls autoplay loop&gt;&lt;source src=&quot;https://i.imgur.com/bSnZyCk.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;
+&lt;img src=&quot;https://i.imgur.com/4cm4HUH.png&quot; alt=&quot;Cell Biology&quot;&gt;&lt;img src=&quot;https://i.imgur.com/xc532bY.png&quot; alt=&quot;Molecular Biology&quot;&gt;&lt;img src=&quot;https://i.imgur.com/Ktj5Id1.png&quot; alt=&quot;Protein Biology&quot;&gt;
 
-### Swapportunities
+Short video game for the Oculus Go where you swap competitors instruments for others. Three laboratories were created: Cell biology, molecular biology and protein biology.
+
+I was responsible of: Scouting laboratories, level design, 3D modeling all the environments, texturing, 3D modeling competitor's instruments, 3D modeling weapons, animations, particles and splatter effects, renders for swap sprites, UI elements with Unity.
+
+### Digital Smart Start
+&lt;img src=&quot;https://i.imgur.com/SBjVFED.png&quot; alt=&quot;Qubit Flex DSS&quot;&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;&lt;source src=&quot;https://i.imgur.com/az277l6.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;&lt;source src=&quot;https://i.imgur.com/VY3JlL1.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;
+&lt;img src=&quot;https://i.imgur.com/7xXS1gE.png&quot; alt=&quot;QuantStudio DSS&quot;&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;&lt;source src=&quot;https://i.imgur.com/etgNe5m.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;video width=&quot;50%&quot; controls autoplay loop&gt;&lt;source src=&quot;https://i.imgur.com/XzpUPBu.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;
+
+WebGL trainings to set new instruments by Thermo Fisher Scientific divisions. Including workflows for basic essay runs and setting up your new instrument. Five iterations were done: POC, EVOS M5000, QuantStudio 1, Qubit Flex and QuantStudio 3/5. Available &lt;a href=&quot;https://test.apps.thermofisher.com/apps/lms/#/vr-manuals&quot;&gt;here&lt;/a&gt;.
+
+I was responsible of: Retolopology of CAD files for instruments, modeling environments and accesories, texturing, lighting, animations, highligh system with C#, event system functionality, UI elements with Unity.
 
 ### VR Robot
 &lt;video width=&quot;100%&quot; controls autoplay loop&gt;
 &lt;source src=&quot;https://i.imgur.com/p7oAcHL.mp4&quot; type=&quot;video/mp4&quot;&gt;
 &lt;/video&gt;
+
+POC for managing a Spinnaker Microplate Robot from VR environments with the HTC Vive.
+
+I was responsible of: Retopology of CAD files for instruments, modeling environments and accessories, texturing, animations.
 </description>
             <link>http://localhost:4000/portfolio.html</link>
           </item>

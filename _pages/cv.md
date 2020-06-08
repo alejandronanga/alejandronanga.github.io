@@ -44,12 +44,12 @@ I was in charge of creating 2D assets for motion graphics; 2D animation; assisti
 * Arnold
 * Pixologic ZBrush
 * Blender
-* Nuke
 
 #### Programming:
 * C#
 * Java
-* Cg
+* Basic Cg
+* Basic JavaScript
 
 #### Languages:
-Spanish and English
+I speak Spanish and English

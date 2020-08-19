@@ -5,8 +5,8 @@
     <description>Mexican 3D artist and video game developer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2020 16:14:01 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2020 16:14:01 -0700</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2020 14:55:22 -0700</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2020 14:55:22 -0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -77,18 +77,18 @@
   &lt;li&gt;Arnold&lt;/li&gt;
   &lt;li&gt;Pixologic ZBrush&lt;/li&gt;
   &lt;li&gt;Blender&lt;/li&gt;
-  &lt;li&gt;Nuke&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;programming&quot;&gt;Programming:&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;C#&lt;/li&gt;
   &lt;li&gt;Java&lt;/li&gt;
-  &lt;li&gt;Cg&lt;/li&gt;
+  &lt;li&gt;Basic Cg&lt;/li&gt;
+  &lt;li&gt;Basic JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;languages&quot;&gt;Languages:&lt;/h4&gt;
-&lt;p&gt;Spanish and English&lt;/p&gt;
+&lt;p&gt;I speak Spanish and English&lt;/p&gt;
 </description>
             <link>http://localhost:4000/cv.html</link>
           </item>
@@ -103,7 +103,18 @@
         
           <item>
             <title>Portfolio</title>
-            <description>### Swapportunities
+            <description>### Continuous Manufacturing Project
+&lt;div class=&quot;sketchfab-embed-wrapper&quot;&gt;
+    &lt;iframe title=&quot;A 3D model&quot; width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://sketchfab.com/models/52827904564f4ee7927b38a58f29e479/embed?autostart=1&amp;amp;ui_controls=1&amp;amp;ui_infos=1&amp;amp;ui_inspector=1&amp;amp;ui_stop=1&amp;amp;ui_watermark=1&amp;amp;ui_watermark_link=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; vr&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+A two month project for Thermo Fisher Scientific's Pharma Services Group.
+
+Based on photographic and photogrammetry data provided, an optimized reproduction of a pharmaceutical manufacturing facility was created, this is to be used on Mixed Reality platforms for sales and for further population with instruments that could have a training intent.
+
+I was responsible of 3D modeling and populating the environments and instruments, and texturing. I also had to solve some task managing challenges following Agile principles.
+
+### Swapportunities
 &lt;video width=&quot;100%&quot; controls autoplay loop&gt;&lt;source src=&quot;https://i.imgur.com/bSnZyCk.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;
 &lt;img src=&quot;https://i.imgur.com/4cm4HUH.png&quot; alt=&quot;Cell Biology&quot;&gt;&lt;img src=&quot;https://i.imgur.com/xc532bY.png&quot; alt=&quot;Molecular Biology&quot;&gt;&lt;img src=&quot;https://i.imgur.com/Ktj5Id1.png&quot; alt=&quot;Protein Biology&quot;&gt;
 

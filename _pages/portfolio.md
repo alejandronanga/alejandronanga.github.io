@@ -8,9 +8,7 @@ image: 'https://i.imgur.com/UCBd1eu.png'
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/52827904564f4ee7927b38a58f29e479/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-A two month project for Thermo Fisher Scientific's Pharma Services Group.
-
-Based on photographic and photogrammetry data provided, an optimized reproduction of a pharmaceutical manufacturing facility was created, this is to be used on Mixed Reality platforms for sales and for further population with instruments that could have a training intent.
+A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized reproduction of a pharmaceutical manufacturing facility was created, this is to be used on Mixed Reality platforms for sales and for further population with instruments that could have a training intent.
 
 I was responsible of 3D modeling and populating the environments and instruments, and texturing. I also had to solve some task managing challenges following Agile principles.
 

@@ -21,8 +21,8 @@ Short video game for the Oculus Go where you swap competitors instruments for ot
 I was responsible of: Scouting laboratories, level design, 3D modeling all the environments, texturing, 3D modeling competitor's instruments, 3D modeling weapons, animations, particles and splatter effects, renders for swap sprites, UI elements with Unity.
 
 ### Digital Smart Start
-<video width="50%" controls autoplay loop><source src="https://i.imgur.com/az277l6.mp4" type="video/mp4"></video><video width="50%" controls autoplay loop><source src="https://i.imgur.com/VY3JlL1.mp4" type="video/mp4"></video>
-<video width="50%" controls autoplay loop><source src="https://i.imgur.com/etgNe5m.mp4" type="video/mp4"></video><video width="50%" controls autoplay loop><source src="https://i.imgur.com/XzpUPBu.mp4" type="video/mp4"></video>
+<video width="49%" controls autoplay loop><source src="https://i.imgur.com/az277l6.mp4" type="video/mp4"></video><video width="49%" controls autoplay loop><source src="https://i.imgur.com/VY3JlL1.mp4" type="video/mp4"></video>
+<video width="49%" controls autoplay loop><source src="https://i.imgur.com/etgNe5m.mp4" type="video/mp4"></video><video width="49%" controls autoplay loop><source src="https://i.imgur.com/XzpUPBu.mp4" type="video/mp4"></video>
 
 WebGL trainings to set new instruments by Thermo Fisher Scientific divisions. Including workflows for basic essay runs and setting up your new instrument. Five iterations were done: POC, EVOS M5000, QuantStudio 1, Qubit Flex and QuantStudio 3/5. Available <a href="https://test.apps.thermofisher.com/apps/lms/#/vr-manuals">here</a> or <a href="https://s3.amazonaws.com/edt-vrapps-qubitdss-prod-website/qubitdss/index.html">here</a> if you don't want to create an account.
 

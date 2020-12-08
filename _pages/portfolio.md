@@ -24,7 +24,7 @@ I was responsible of: Scouting laboratories, level design, 3D modeling all the e
 <video width="49%" controls autoplay loop><source src="https://i.imgur.com/az277l6.mp4" type="video/mp4"></video><video width="49%" controls autoplay loop><source src="https://i.imgur.com/VY3JlL1.mp4" type="video/mp4"></video>
 <video width="49%" controls autoplay loop><source src="https://i.imgur.com/etgNe5m.mp4" type="video/mp4"></video><video width="49%" controls autoplay loop><source src="https://i.imgur.com/XzpUPBu.mp4" type="video/mp4"></video>
 
-WebGL trainings to set new instruments by Thermo Fisher Scientific divisions. Including workflows for basic essay runs and setting up your new instrument. Five iterations were done: POC, EVOS M5000, QuantStudio 1, Qubit Flex and QuantStudio 3/5. Available <a href="https://test.apps.thermofisher.com/apps/lms/#/vr-manuals">here</a> or <a href="https://s3.amazonaws.com/edt-vrapps-qubitdss-prod-website/qubitdss/index.html">here</a> if you don't want to create an account.
+WebGL trainings to set new instruments by Thermo Fisher Scientific divisions. Including workflows for basic essay runs and setting up your new instrument. Five iterations were done: POC, EVOS M5000, QuantStudio 1, Qubit Flex and QuantStudio 3/5. Available <a href="https://test.apps.thermofisher.com/apps/lms/#/vr-manuals">here</a>, or <a href="https://s3.amazonaws.com/edt-vrapps-qubitdss-prod-website/qubitdss/index.html">here</a> if you don't want to create an account.
 
 I was responsible of: Retolopology of CAD files for instruments, modeling environments and accesories, texturing, lighting, animations, highligh system with C#, event system functionality, UI elements with Unity.
 

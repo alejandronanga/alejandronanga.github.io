@@ -7,26 +7,21 @@ image: 'https://i.imgur.com/iQgZe8v.png'
 ## <b>Experience</b>
 ### Thermo Fisher Scientific (2017 - Present)
 #### 3D Graphics Artist (2020 - Present)
-My role inside of Thermo Fisher Scientific is supporting Pharma Services Global to create 3D replicas of their pharmaceutical laboratories and equipment at a very low hardware cost parting from photographic scans; for AR applications for the HoloLens 2. 
+My current role is working with Pharma Services Global to deliver realistic 3D replicas of Thermo Fisher's pharmaceutical laboratories, factories and equipment in PBR with a very low hardware cost, parting from scans, CAD files or photographic references for AR applications on the Hololens 2. Delivering with this, training experiences when in person trainings are not possible due to the COVID-19 pandemic.
 
 #### Software Engineer I / 3D Developer (2017 - 2020)
-From 2017 to 2020, I was an interdisciplinary team member in the Digital Engineering division. Among my responsibilities was the development of 3D assets for applications on WebGL and VR/AR platforms.
+From 2017 to 2020, I was an interdisciplinary developer in a Scrum team for the Digital Engineering division.
 
-I was in charge of doing the retopology of Thermo Fisher's biotechnology equipment parting from provided CAD files to textured low polycount meshes, for a WebGL training application for new users of these instruments. In this experience I was also responsible for creating the animations of each workflow, ranging from the installation of the instrument to running experiments with them; I also recreated the Software User Interface for Unity's UI elements and every 3D asset required for these workflows.
+In this position I developed multiple 3D assets; depending on the project, it comprised retopology of biotechnology equipment from CAD files, creating new low poly environments and props from scratch, conceptualizing environments, level design and animations for applications on WebGL and VR/AR platforms like Oculus Go, HTC Vive and Meta 2 in trainings in the field of PCR workflows, installation of new equipment, games for sales, and other experiences.
 
-I worked on a POC on the interconnection of an experience made in Unity for the HTC Vive and a real life lab automation Spinnaker Microplate Robot, where I modeled the instruments required and the virtual environment itself.
+I was also responsible for particle systems, rendering, lighting, implementation of UI mock ups in Unity and its functionality, developing features with C# using TDD; with optimization as a priority to achieve smooth experiences.
 
-Furthermore I functioned as an environmental artist creating asset bundles of cellular, molecular and protein biology for a training video game for the Oculus Go. Where I scouted different laboratories of Thermo Fisher Scientific, made the layouts and concept art and continued modeling, optimizing, creating texture atlas for each asset bundle with few draw calls and a low polycount as the main priorities.
+I also worked on other experimental projects, like the interconnection of a virtual environment with the HTC Vive and an Spinnaker Microplate Robot in Carlsbad, California; and as part of my development goals I provided courses on the creation of 3D assets for video games for interested coworkers from different backgrounds in software development.
 
-I also worked on creating different User Interfaces for our projects and implementing others with templates from the User Interface and User Experience department.
-
-As part of my goals for the company I provided courses on the creation of 3D assets for video games for interested coworkers on vastly different areas of Digital Engineering.
 
 ### Vicom (2017)
 #### Intern in Media
-At Vicom I worked as an intern in media. My responsibilities were filling the gap between disciplines in the media department. Fulfilling the needs of different clients based mostly at the central Mexico region.
-
-I was in charge of creating 2D assets for motion graphics; 2D animation; assisting at brand storytelling; graphic design for web; and product photography.
+At Vicom I was an intern in media as an undergrad. My role was filling the gap between disciplines in the media department. Among my responsibilities were the creation of 2D assets for motion graphics; 2D animation; assisting at brand storytelling; scouting; assisting production; and product photography.
 
 ## <b>Education</b>
 ### Monterrey Institute of Technology and Higher Education (2012 - 2017)
@@ -42,14 +37,17 @@ I was in charge of creating 2D assets for motion graphics; 2D animation; assisti
 * Substance Painter
 * V-Ray
 * Arnold
-* Pixologic ZBrush
-* Blender
+* ZBrush
 
 #### Programming:
 * C#
 * Java
-* Basic Cg
-* Basic JavaScript
+
+#### Other technologies:
+* GitHub
+* Atlassian Software
+* Microsoft Office Software
+* Cycling '74 Max
 
 #### Languages:
 I speak Spanish and English

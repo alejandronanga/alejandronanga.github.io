@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Résumé
 image: 'https://i.imgur.com/iQgZe8v.png'
 ---
 

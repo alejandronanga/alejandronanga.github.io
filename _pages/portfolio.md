@@ -13,8 +13,7 @@ A project for Thermo Fisher Scientific's Pharma Services Group. Based on photogr
 I was responsible of 3D modeling and populating the environments and instruments, and texturing. I also had to solve some task managing challenges following Agile principles.
 
 ### Line 2 Washer Guide
-https://i.imgur.com/KyqGFlB.png
-<img src="https://i.imgur.com/4cm4HUH.png" alt="Line 2 Washer early stage">
+<img src="https://i.imgur.com/KyqGFlB.png" alt="Line 2 Washer early stage">
 
 A POC for Thermo Fisher Scientific's Pharma Services Group. Based on CAD data and photographic references, an optimized reproduction of a vial washer for pharmaceutical plants was created, and a training for the Hololens 2 was implemented for the operator teams.
 

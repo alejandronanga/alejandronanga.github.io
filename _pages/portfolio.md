@@ -3,6 +3,14 @@ layout: page
 title: Portfolio
 image: 'https://i.imgur.com/UCBd1eu.png'
 ---
+###Line 2 Washer Guide
+<iframe src="https://player.vimeo.com/video/501898364" width="100%" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/501898364">Line 2 Washer Demo Run 01182021</a> from <a href="https://vimeo.com/user124524073">Gerald Logan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+A POC for Thermo Fisher Scientific's Pharma Services Group. Based on CAD data and photographic references, an optimized reproduction of a vial washer for pharmaceutical plants was created, and a training for the Hololens 2 was implemented for the operator teams.
+
+I was responsible of retopology of CAD files, 3D modeling, texturing and animating. Altoura was responsible of implementation.
+
 ### Continuous Manufacturing Project
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/52827904564f4ee7927b38a58f29e479/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

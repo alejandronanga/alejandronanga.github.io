@@ -6,8 +6,8 @@ image: 'https://i.imgur.com/iQgZe8v.png'
 
 ## <b>Experience</b>
 ### Thermo Fisher Scientific (2017 - Present)
-#### 3D Graphics Artist (2020 - Present)
-I'm working with Pharma Services Global, a divison of Thermo Fisher Scientific to deliver Mixed Reality trainings and aid the assembly of new vaccination plants in the UK and US, in a partnership with Altoura and Microsoft. My role is recreating plants and machinery in low poly and PBR with a very low hardware cost, parting from photographic references, some CAD files and Matterport scans.
+#### 3D Artist II (2020 - Present)
+I'm working with Pharma Services Global, a divison of Thermo Fisher Scientific, to deliver Mixed Reality trainings and aid the assembly of new vaccination plants in the UK and US, in a partnership with Altoura and Microsoft. My role is recreating plants and machinery in low poly and PBR with a very low hardware cost, parting from photographic references, some CAD files and Matterport scans.
 
 I'm also responsible for recreating user interfaces from the multiple environments, and overall animations for the trainings.
 

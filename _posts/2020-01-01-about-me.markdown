@@ -4,11 +4,11 @@ title: About me
 tags: []
 ---
 
-I'm a 3D artist from Mexico. I'm currently developing in Unity for WebGL and VR/AR platforms, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.
+I'm a 3D artist from Mexico. I'm currently developing in Unity for Mixed Reality and WebGL platforms, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.
 
 My workflow consists on scouting, conceptualizing, modeling with Autodesk Maya, texturing with Substance Painter and Adobe Photoshop for PBR shaders and then moving to Unity3D to populate environments.
 
 I care about improving processes to deliver faster, consistent, high quality work in 3D environments.
 
 <center><img src="https://i.imgur.com/WnfQ3QR.jpg" alt="Personal avatar" width="33%"> 
-<a href="mailto:me@nanga.mx">Contact me</a></center>
+<a href="mailto:hello@alejandronanga.com">Contact me</a></center>

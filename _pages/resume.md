@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Resume
 image: 'https://i.imgur.com/iQgZe8v.png'
 ---
 

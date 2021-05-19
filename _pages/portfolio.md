@@ -4,7 +4,7 @@ title: Portfolio
 image: 'https://i.imgur.com/UCBd1eu.png'
 ---
 ### Line 2 Washer Guide
-<iframe src="https://player.vimeo.com/video/501898364" width="100%" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/501898364" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 A POC for Thermo Fisher Scientific's Pharma Services Group. Based on CAD data and photographic references, an optimized reproduction of a vial washer for pharmaceutical plants was created, and a training for the Hololens 2 was implemented for the operator teams.
 

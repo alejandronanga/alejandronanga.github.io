@@ -7,7 +7,9 @@ image: 'https://i.imgur.com/iQgZe8v.png'
 ## <b>Experience</b>
 ### Thermo Fisher Scientific (2017 - Present)
 #### 3D Graphics Artist (2020 - Present)
-My current role is working with Pharma Services Global to deliver realistic 3D replicas of Thermo Fisher's pharmaceutical laboratories, factories and equipment in PBR with a very low hardware cost, parting from scans, CAD files or photographic references for AR applications on the Hololens 2. Delivering with this, training experiences when in person trainings are not possible due to the COVID-19 pandemic.
+I'm working with Pharma Services Global, a divison of Thermo Fisher Scientific to deliver Mixed Reality trainings to aid the assembly of new vaccination plants in the UK and US, with a partnership with Altoura and Microsoft. My role is recreating plants in PBR with a very low hardware cost, parting from photographic references, some CAD files and Matterport scans.
+
+I'm also responsible for recreating user interfaces from the multiple environments, and overall animations for the trainings.
 
 #### Software Engineer I / 3D Developer (2017 - 2020)
 From 2017 to 2020, I was an interdisciplinary developer in a Scrum team for the Digital Engineering division.
@@ -45,9 +47,10 @@ At Vicom I was an intern in media as an undergrad. My role was filling the gap b
 
 #### Other technologies:
 * GitHub
-* Atlassian Software
-* Microsoft Office Software
 * Cycling '74 Max
+* Atlassian Software
+* MRTK
+* Microsoft Office
 
 #### Languages:
-I speak Spanish and English
+I speak Spanish, English, and Italian.

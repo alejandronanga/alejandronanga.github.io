@@ -2,7 +2,6 @@
 layout: post
 title: About me
 tags: []
-image: ''
 ---
 
 I'm a 3D artist from Mexico. I'm currently developing in Unity for WebGL and VR/AR platforms, focusing on level design, environmental art and polygon optimization for platforms with hardware limitations, at Thermo Fisher Scientific.

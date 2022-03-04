@@ -8,9 +8,9 @@ image: 'https://i.imgur.com/UCBd1eu.png'
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/d3b9c8c486e143bc983e1bdd3092a78e/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this fas further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
+A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
 
-This implementation helped cut training costs and time, and joined other assemblies created for other vaccination plants and equipment trainings.
+The implementation of this assembly, among other manufacturing plants, have helped cut training costs and time.
 
 In this project, my role consisted of: 3D modeling the environment, assembly parts, among other assets; optimization of design files, and other assets; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 

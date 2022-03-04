@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-image: 'https://i.imgur.com/UCBd1eu.png'
+image: 'https://i.imgur.com/CMIYTPy.png'
 ---
 ### Ferentino Line 4
 <div class="sketchfab-embed-wrapper">

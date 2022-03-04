@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-image: 'https://i.imgur.com/iQgZe8v.png'
+image: 'https://i.imgur.com/WcJ1su0.png'
 ---
 
 ## <b>Experience</b>
@@ -35,6 +35,7 @@ At Vicom I was an intern in media as an undergrad. My role was filling the gap b
 #### Media:
 * Autodesk Maya
 * Unity
+* Unreal Engine
 * Adobe CC
 * Substance Painter
 * V-Ray

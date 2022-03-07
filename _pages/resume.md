@@ -63,8 +63,4 @@ At Vicom I was an intern in media as an undergrad. My role was filling the gap b
 I speak Spanish, English, and Italian.
 
 ### Contact me:
-Phone (US): +1 (858) 380 5611
-
-Phone (MX): +52 (664) 407 8338
-
-email: hello@alejandronanga.com
+Phone(US): +1 (858) 380 5611    Phone(MX): +52 (664) 407 8338   email: hello@alejandronanga.com

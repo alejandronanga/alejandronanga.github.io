@@ -64,5 +64,7 @@ I speak Spanish, English, and Italian.
 
 ### Contact me:
 Phone (US): +1 (858) 380 5611
+
 Phone (MX): +52 (664) 407 8338
+
 email: hello@alejandronanga.com

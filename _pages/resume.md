@@ -16,8 +16,6 @@ My role has comprised (not limited to) retopology, 3D modeling, texturing, UVing
 The result has been decreased costs and time on training, for complete assemblies and manufacturing plants for TFS operators; alongside the benefit of providing remote approaches for training and support around the globe; in a digital transformation effort in Thermo Fisher Scientific.
 
 #### Software Engineer I (3D Developer) (2017 - 2020)
-From 2017 to 2020, I was an interdisciplinary developer in a Scrum team for the Digital Engineering division.
-
 From 2017 to 2020, I was under the Digital Engineering division in TFS. I was an interdisciplinary developer in a Scrum team, where I developed multiple applications alongside other talented Software Engineers. I was the person creating all the 3D assets and environments for our Virtual Reality (Oculus Go, Oculus Rift, HTC Vive), AR (Hololens 2, Meta 2), and WebGL experiences.
 
 My work was comprised of low-poly biotechnology equipment, created from photographic references or design files; low-poly environments and props; level design; animation; particle systems; rendering; UI/UX implementation; C# programming for Unity using Test Driven Development practices; shaders; among other competencies.
@@ -63,4 +61,4 @@ At Vicom I was an intern in media as an undergrad. My role was filling the gap b
 I speak Spanish, English, and Italian.
 
 ### Contact me:
-Phone(US): +1 (858) 380 5611    Phone(MX): +52 (664) 407 8338   email: hello@alejandronanga.com
+Phone(US): +1 (858) 380 5611     Phone(MX): +52 (664) 407 8338    email: hello@alejandronanga.com

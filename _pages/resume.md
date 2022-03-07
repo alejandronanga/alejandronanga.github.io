@@ -20,7 +20,7 @@ From 2017 to 2020, I was under the Digital Engineering division in TFS. I was an
 
 My work under that role comprised: low-poly biotechnology equipment, created from photographic references or design files; low-poly environments and props; level design; animation; particle systems; rendering; UI/UX implementation; C# programming for Unity using Test Driven Development practices; shaders; among other competencies.
 
-The projects ranged in guided trainings for TFS equipment installation and use; marketing experiences; and scientific learning experiences. Mostly for cost-saving and equipment-selling purposes. I also worked on other experimental projects and POCs, that were later concreted into specialized teams inside the company.
+The scope on the projects ranged over guided trainings for TFS equipment installation and use; marketing experiences; and scientific learning experiences. Mostly for cost-saving and equipment-selling purposes. I also worked on other experimental projects and POCs, that were later concreted into specialized teams inside the company.
 
 Furthermore, I provided courses on the creation of 3D assets and other media, for video games and XR applications; for interested colleagues from different backgrounds in software development.
 

@@ -18,7 +18,7 @@ The result has been decreased costs and time on training, for complete assemblie
 #### Software Engineer I (3D Developer) (2017 - 2020)
 From 2017 to 2020, I was under the Digital Engineering division in TFS. I was an interdisciplinary developer in a Scrum team, where I developed multiple applications alongside other talented Software Engineers. I was the person creating all the 3D assets and environments for our Virtual Reality (Oculus Go, Oculus Rift, HTC Vive), AR (Hololens 2, Meta 2), and WebGL experiences.
 
-My work was comprised of low-poly biotechnology equipment, created from photographic references or design files; low-poly environments and props; level design; animation; particle systems; rendering; UI/UX implementation; C# programming for Unity using Test Driven Development practices; shaders; among other competencies.
+My work under that role comprised: low-poly biotechnology equipment, created from photographic references or design files; low-poly environments and props; level design; animation; particle systems; rendering; UI/UX implementation; C# programming for Unity using Test Driven Development practices; shaders; among other competencies.
 
 The projects ranged in guided trainings for TFS equipment installation and use; marketing experiences; and scientific learning experiences. Mostly for cost-saving and equipment-selling purposes. I also worked on other experimental projects and POCs, that were later concreted into specialized teams inside the company.
 

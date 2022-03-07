@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/CMIYTPy.png'
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/d3b9c8c486e143bc983e1bdd3092a78e/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
+A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and limited photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
 
 The implementation of this assembly, among other manufacturing plants, have helped cut training costs and time.
 
@@ -37,7 +37,7 @@ In this project, my role consisted of: 3D modeling, UVing, texturing, and animat
 
 A POC for Thermo Fisher Scientific's Pharma Services Group. Based on CAD data and photographic references, an optimized reproduction of a vial washer for pharmaceutical plants was created, and a training for the Hololens 2 was implemented for the Washer operators.
 
-In this project, my role consisted of: retopology of CAD files, 3D modeling, texturing and animating. Altoura was responsible of its implementation.
+In this project, my role consisted of: retopology of CAD files, 3D modeling, texturing and animating. Altoura was responsible of its implementation and project management, following Agile principles.
 
 You can watch a demo run on the training <a href="https://vimeo.com/501898364">here</a>.
 

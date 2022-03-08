@@ -10,7 +10,7 @@ image: 'https://i.imgur.com/CMIYTPy.png'
 
 A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and limited photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
 
-The implementation of this assembly, among other manufacturing plants, have helped cut training costs and time.
+The implementation of this assembly, among other manufacturing plants, has helped cut training costs and time. And added the benefit of remote training, and doing so outside of a sterile zone.
 
 In this project, my role consisted of: 3D modeling the environment, assembly parts, among other assets; optimization of design files, and other assets; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 

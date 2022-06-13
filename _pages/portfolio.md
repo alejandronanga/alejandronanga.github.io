@@ -3,6 +3,13 @@ layout: page
 title: Portfolio
 image: 'https://i.imgur.com/CMIYTPy.png'
 ---
+### Ferentino PDS Line 2 (WIP)
+<img src="https://i.imgur.com/S8k9yqY.png" alt="Ferentino PDS Line render 1"><img src="https://i.imgur.com/RNaFZ6R.png" alt="Ferentino PDS Line render 2">
+
+Work in progress. Images are a couple of quick renders of some assembly parts of the filler / capper section of this manufacturing line in low-poly and PBR. (This section is still not yet fully optimized, but under 50k tris)
+
+I am currently working on the creation of another TFS plant, based on photographic references and physical measurements of the assembly parts. My role has been 3D modeling and texturing. Further on, I will implement the assets in Unity and create a Mixed Reality training for the Hololens 2 and the Oculus Quest as an assembly and maintenance guided experience.
+
 ### Ferentino Line 4
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/d3b9c8c486e143bc983e1bdd3092a78e/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

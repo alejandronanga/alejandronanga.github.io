@@ -10,7 +10,9 @@ image: 'https://i.imgur.com/CMIYTPy.png'
 
 I am currently working on the creation of another TFS pharmaceutical line, based on photographic references and physical measurements of the assembly parts.
 
-My role has been 3D modeling and texturing. Further on, I will implement the assets in Unity and create a Mixed Reality training for the Hololens 2 and the Oculus Quest as an assembly and maintenance guided experience.
+This is just a visualization of the assembly parts of a small section of the line, with an isolated base. The line skeleton, a layout, and more internal assembly parts were created for the rest of the line.
+
+My role has been 3D modeling and texturing based on photographic references. Further on, I will implement the assets in Unity and create a Mixed Reality training for the Hololens 2 and the Oculus Quest as an assembly and maintenance guided experience.
 
 ### Ferentino Line 4
 <div class="sketchfab-embed-wrapper">

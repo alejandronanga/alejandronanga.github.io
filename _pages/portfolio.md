@@ -8,7 +8,9 @@ image: 'https://i.imgur.com/CMIYTPy.png'
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/ac2338e298504979b7e84b1151bee0bd/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-Work in progress. I am currently working on the creation of another TFS pharmaceutical line, based on photographic references and physical measurements of the assembly parts. My role has been 3D modeling and texturing. Further on, I will implement the assets in Unity and create a Mixed Reality training for the Hololens 2 and the Oculus Quest as an assembly and maintenance guided experience.
+I am currently working on the creation of another TFS pharmaceutical line, based on photographic references and physical measurements of the assembly parts.
+
+My role has been 3D modeling and texturing. Further on, I will implement the assets in Unity and create a Mixed Reality training for the Hololens 2 and the Oculus Quest as an assembly and maintenance guided experience.
 
 ### Ferentino Line 4
 <div class="sketchfab-embed-wrapper">

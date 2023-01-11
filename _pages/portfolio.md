@@ -3,16 +3,16 @@ layout: page
 title: Portfolio
 image: 'https://i.imgur.com/CMIYTPy.png'
 ---
-### Ferentino PDS Line 2 (WIP)
+### Plainville Optima Line
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/ac2338e298504979b7e84b1151bee0bd/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/599a9a5159564787afa5979b9a43cbe9/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-I am currently working on the creation of another TFS pharmaceutical line, based on photographic references and physical measurements of the assembly parts.
+A Mixed Reality project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an interactive digital twin of a vaccines manufacturing facility was created. The interactions were created in Unity for training porpuses regarding the assembly of the line interal parts. Every single piece was animated as instruction animations allowing the user to manipulate the interactive pieces in place during a training experience. This was done for the Hololens 2, and Oculus devices.
 
-This is just a visualization of the assembly parts of a small section of the line, with an isolated base. The line skeleton, a layout, and more internal assembly parts were created for the rest of the line.
+This project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
 
-My role has been 3D modeling and texturing based on photographic references. Further on, I will implement the assets in Unity and create a Mixed Reality training for the Hololens 2 and the Oculus Quest as an assembly and maintenance guided experience.
+In this project, my role consisted of: 3D modeling of the assembly line, parts, and other assets; optimization of design files; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 
 ### Ferentino Line 4
 <div class="sketchfab-embed-wrapper">
@@ -21,7 +21,7 @@ My role has been 3D modeling and texturing based on photographic references. Fur
 
 A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and limited photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
 
-The implementation of this assembly, among other manufacturing plants, has helped cut training costs and time. And added the benefit of remote training, and doing so outside of a sterile zone.
+This project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
 
 In this project, my role consisted of: 3D modeling the environment, assembly parts, among other assets; optimization of design files, and other assets; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 

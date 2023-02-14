@@ -10,7 +10,7 @@ image: 'https://i.imgur.com/CMIYTPy.png'
 
 A Mixed Reality project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an interactive digital twin of a vaccines manufacturing facility was created. The interactions were created in Unity for training porpuses regarding the assembly of the line interal parts. Every single piece was animated as instruction animations allowing the user to manipulate the interactive pieces in place during a training experience. This was done for the Hololens 2, and Oculus devices.
 
-This project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
+While I can only show the finished model in most cases and not its MR implementation, this project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
 
 In this project, my role consisted of: 3D modeling of the assembly line, parts, and other assets; optimization of design files; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 
@@ -21,7 +21,7 @@ In this project, my role consisted of: 3D modeling of the assembly line, parts, 
 
 A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and limited photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
 
-This project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
+While I can only show the finished model in most cases and not its MR implementation, this project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
 
 In this project, my role consisted of: 3D modeling the environment, assembly parts, among other assets; optimization of design files, and other assets; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 
@@ -30,7 +30,7 @@ In this project, my role consisted of: 3D modeling the environment, assembly par
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/52827904564f4ee7927b38a58f29e479/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized reproduction of a pharmaceutical manufacturing facility was created, this is to be used on Mixed Reality platforms for sales and for further population with instruments that could have a training intent.
+A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized digital twin of a pharmaceutical manufacturing facility was created, this is to be used on Mixed Reality platforms for sales and for further population with instruments that could have a training intent.
 
 In this project, my role consisted of: 3D modeling and populating the environments and instruments; UVing and texturing; implementation. I was also responsible for the project implementation and project management, following Agile principles.
 
@@ -42,15 +42,16 @@ A project for Thermo Fisher Scientific's Pharma Services Group and Viral Vector 
 In this project, my role consisted of: 3D modeling, UVing, texturing, and animating the bioreactor. I was also responsible for its implementation.
 
 ### Line 2 Washer Guide
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IR9NCdCjsxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/ba26ad01db4c41979bb01d2d9ad55076/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-A POC for Thermo Fisher Scientific's Pharma Services Group. Based on CAD data and photographic references, an optimized reproduction of a vial washer for pharmaceutical plants was created, and a training for the Hololens 2 was implemented for the Washer operators.
+This was the first project I participated with Thermo Fisher Scientific's Pharma Services Group, in collaboration with Altoura, as an introduction to their Mixed Reality tools and solutions. We implemented a full training on assembling and disassembling specific change parts on a Vial Washer for the Hololens 2.
 
-In this project, my role consisted of: retopology of CAD files, 3D modeling, texturing and animating. Altoura was responsible of its implementation and project management, following Agile principles.
+My main focus on this project was the retoplogy of provided CAD files, and 3D modeling the Washer skeleton and secondary assets based on photographic material, UVing, texturing, and animating the vial washer. This minding the draw calls and polycount limit for the Hololens 2. Altoura helped with the implementation.
 
-You can watch a demo run on the training <a href="https://vimeo.com/501898364">here</a>.
+You can watch a local demo run on the training <a href="https://vimeo.com/501898364">here</a>.
 
 ### Swapportunities
 <video width="100%" controls autoplay loop><source src="https://i.imgur.com/bSnZyCk.mp4" type="video/mp4"></video>

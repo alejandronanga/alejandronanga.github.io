@@ -3,6 +3,15 @@ layout: page
 title: Portfolio
 image: 'https://i.imgur.com/CMIYTPy.png'
 ---
+### Carlsbad Fermenter Project (WIP)
+<img src="https://i.imgur.com/AcGMSaS.png" alt="Carlsbad Fermenter Project">
+
+A Mixed Reality project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic references, an interactive digital twin of an ABEC fermenter was created. This is a work in progress, a Digital Twin was created under the polygon and draw calls limits of the Hololens 2. All assemblies, tools, and tubes, will be animated for an immersive experience setting up the fermenter, according to SOPs.
+
+This project will help cutting training costs and time; and the added benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
+
+In this project, my role consisted of: 3D modeling of the assembly line, parts, and other assets; optimization of design files; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
+
 ### Plainville Optima Line
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/599a9a5159564787afa5979b9a43cbe9/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -10,7 +19,7 @@ image: 'https://i.imgur.com/CMIYTPy.png'
 
 A Mixed Reality project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an interactive digital twin of a vaccines manufacturing facility was created. The interactions were created in Unity for training porpuses regarding the assembly of the line interal parts. Every single piece was animated as instruction animations allowing the user to manipulate the interactive pieces in place during a training experience. This was done for the Hololens 2, and Oculus devices.
 
-While I can only show the finished model in most cases and not its MR implementation, this project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
+While I can only show the finished model in most cases and not its MR implementation, this project has helped cut training costs and time; and the added benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
 
 In this project, my role consisted of: 3D modeling of the assembly line, parts, and other assets; optimization of design files; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 
@@ -21,7 +30,7 @@ In this project, my role consisted of: 3D modeling of the assembly line, parts, 
 
 A project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and limited photogrammetry data provided, an optimized reproduction of a vaccines manufacturing facility was created, this was further implemented into a Mixed Reality training for operators. Every single piece of the assembly was implemented into a guided interactive training for the Hololens 2, and Oculus in Unity.
 
-While I can only show the finished model in most cases and not its MR implementation, this project has helped cut training costs and time. And added the benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
+While I can only show the finished model in most cases and not its MR implementation, this project has helped cut training costs and time; and the added benefit of remote training, allowing the user to complete an assembly run without entering a sterile zone.
 
 In this project, my role consisted of: 3D modeling the environment, assembly parts, among other assets; optimization of design files, and other assets; UVing, and texturing. I was also responsible for the project implementation and project management, following Agile principles.
 
@@ -71,11 +80,3 @@ Five iterations were done: An initial POC, EVOS M5000, QuantStudio 1, Qubit Flex
 
 In this project, my role consisted of: Retolopology of CAD files for instruments, 3D modeling environments and accesories, texturing, lighting, animations, event system functionality, implementing the project's UI, and feature implementation with C# and Rider.
 
-### VR Robot
-<video width="100%" controls autoplay loop>
-<source src="https://i.imgur.com/p7oAcHL.mp4" type="video/mp4">
-</video>
-
-POC for managing a Spinnaker Microplate Robot from VR environments with an HTC Vive.
-
-In this project, my role consisted of: Retopology of CAD files for instruments, 3D modeling environments and accessories, texturing, animations.

@@ -16,6 +16,7 @@ In this project, my role consisted of: 3D modeling of the assembly line, parts, 
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="100%" height="480" src="https://sketchfab.com/models/599a9a5159564787afa5979b9a43cbe9/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+<iframe src="https://thermofisher.sharepoint.com/sites/psg-pharmaservicesgroup/_layouts/15/embed.aspx?UniqueId=239357e9-671c-4280-8d7a-f9f481c48115&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="AES-Altoura-Plainville-Optima-Line-Yammer-050423 1.mp4"></iframe>
 
 A Mixed Reality project for Thermo Fisher Scientific's Pharma Services Group. Based on photographic and photogrammetry data provided, an interactive digital twin of a vaccines manufacturing facility was created. The interactions were created in Unity for training porpuses regarding the assembly of the line interal parts. Every single piece was animated as instruction animations allowing the user to manipulate the interactive pieces in place during a training experience. This was done for the Hololens 2, and Oculus devices.
 
